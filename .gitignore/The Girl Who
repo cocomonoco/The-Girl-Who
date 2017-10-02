@@ -1,0 +1,47 @@
+<html>
+
+	<head>	
+		<title> CocoMonoco: The Girl Who... </title>
+	
+		
+	</head>
+	
+		<p></p>	
+	
+	<body>	
+	
+			<img src = "C:\Users\chloe\Desktop\Website\new images\The Girl Who.png" id = "background" /> 
+
+			<embed src = "C:\Users\chloe\Desktop\Website\Stories\The Girl Who... - Release 1.pdf" id = "releaseOne" /> 
+	
+		<style>
+		
+			#background	{
+			
+			width: 70%;
+			z-index: 1;
+			
+			}
+			
+			#releaseOne	{
+			
+			position: absolute;
+			z-index: 100;
+
+			width: 1000;
+			height: 700;
+			top: 625;
+			right: 400;
+			
+			}		
+		
+		
+		</style>
+		
+		
+		<script>
+		
+		</script>
+	
+	</body>
+</html>	
